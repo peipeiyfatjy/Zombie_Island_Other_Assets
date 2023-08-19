@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 82c511c87505a154cb3f04cacc6f0ee6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - bush: {fileID: 4760170900987445267, guid: ef5f03453c518e543824328076e3fac7, type: 3}
+  - rockyIslandCollider: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

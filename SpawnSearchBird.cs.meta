@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: e767ef9dc576aea4aa393c9e477ed33b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - islandCollider: {fileID: 4322459444776220537, guid: c7ac1acbda0bcf749a3ddad8e71d8058,
+      type: 3}
+  - searchBird1: {fileID: 762942332580595923, guid: 985c1443d5842144789f9414c06c372f,
+      type: 3}
+  - searchBird2: {fileID: 762942332580595923, guid: 985c1443d5842144789f9414c06c372f,
+      type: 3}
+  - searchBird3: {fileID: 762942332580595923, guid: 985c1443d5842144789f9414c06c372f,
+      type: 3}
+  - searchBird4: {fileID: 762942332580595923, guid: 985c1443d5842144789f9414c06c372f,
+      type: 3}
+  - searchBird5: {fileID: 762942332580595923, guid: 985c1443d5842144789f9414c06c372f,
+      type: 3}
+  - searchBird6: {fileID: 762942332580595923, guid: 985c1443d5842144789f9414c06c372f,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
