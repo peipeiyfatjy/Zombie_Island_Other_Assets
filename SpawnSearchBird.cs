@@ -29,7 +29,7 @@ public class SpawnSearchBird : MonoBehaviour
         intervalSize = (maxY - minY) / numIntervals;
         */
         //create 6 parallel birds at leftmost edge of the island to capture both boundaries of the island trigger as the birds move right
-        Instantiate(searchBird1, new Vector3(-40, -30f, 1), Quaternion.Euler(Vector3.forward * 0));
+        Instantiate(searchBird1, new Vector3(-20, -20f, 1), Quaternion.Euler(Vector3.forward * 0));
         /*
         Instantiate(searchBird2, new Vector3(minX - 1, minY + intervalSize, 1), Quaternion.Euler(Vector3.forward * 0));
         Instantiate(searchBird3, new Vector3(minX - 1, minY + 2 * intervalSize, 1), Quaternion.Euler(Vector3.forward * 0));

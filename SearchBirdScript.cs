@@ -61,7 +61,7 @@ public class SearchBirdScript : MonoBehaviour
         {
             transform.position = transform.position + Vector3.right * 1000 * Time.deltaTime;
         } 
-        if(transform.position.y > 20)
+        if(transform.position.y > -5)
         {
             Destroy(gameObject);
             logicScript.doneMapping = true;
